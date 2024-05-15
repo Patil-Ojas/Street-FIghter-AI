@@ -6,7 +6,7 @@ If you prefer blogs! -> [Medium](https://medium.com/@ojas.abhijit.patil/teaching
 
 ## Demo
 
-![Live Demo](https://github.com/Patil-Ojas/SentimentInsight/blob/main/Sentiment_Analysis_demo.gif?raw=true)
+![Live Demo](https://github.com/Patil-Ojas/Street-FIghter-AI/blob/main/StreetFighterAI_demo.gif?raw=true)
 
 ## :warning: Framework & TechStack used
 
