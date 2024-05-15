@@ -1,7 +1,10 @@
 # Street-Fighter-AI
-Having trouble winning in video games? Here is how you can teach an AI to play it for you!! [Medium](https://medium.com/@ojas.abhijit.patil/teaching-ai-to-play-streetfighter-ii-3b95fb21dcc4)
+Having trouble winning in video games? Here is how you can teach an AI to play it for you!! 
 
-Demo
+If you prefer blogs! -> [Medium](https://medium.com/@ojas.abhijit.patil/teaching-ai-to-play-streetfighter-ii-3b95fb21dcc4)
+
+
+## Demo
 
 ![Live Demo](https://github.com/Patil-Ojas/SentimentInsight/blob/main/Sentiment_Analysis_demo.gif?raw=true)
 
