@@ -18,12 +18,13 @@ If you prefer blogs! -> [Medium](https://medium.com/@ojas.abhijit.patil/teaching
 
 ## :gear: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Patil-Ojas/SentimentInsight/blob/main/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Patil-Ojas/Street-FIghter-AI/blob/main/requirements.txt)
 
 Huge Thank you to @nicknochnack for the beautiful explaination!
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Facemask_Detection](https://github.com/Patil-Ojas/SentimentInsight/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [Street-Fighter-AI](https://github.com/Patil-Ojas/Street-FIghter-AI/issues) repository.
+Please do not hesitate to contact me on any socials if you need the ROM or trained model files, have fun!
 
 ## :eyes: License
-[MIT](https://github.com/Patil-Ojas/SentimentInsight/blob/main/LICENSE)
+[MIT](https://github.com/Patil-Ojas/Street-FIghter-AI/blob/main/LICENSE)
